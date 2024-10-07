@@ -76,4 +76,6 @@ int main()
     y = binary_search(data, element_3);
     cout << "Index of " << element_3 << " from linear search: " << x << endl;
     cout << "Index of " << element_3 << " from linear search: " << y << endl;
+
+    return 0;
 }
